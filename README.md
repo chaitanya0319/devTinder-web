@@ -30,7 +30,8 @@ Install axios
 
 -Logout Feature
 
-
+ Get the feed and add the feed in th store
+- build the user card on feed
 
 Body 
     NavBar
