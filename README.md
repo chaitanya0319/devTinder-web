@@ -33,6 +33,9 @@ Install axios
  Get the feed and add the feed in th store
 - build the user card on feed
 
+New Page - See all my connections
+- New Page - See all my Conenction REquests
+
 Body 
     NavBar
     Route=/  => Feed
