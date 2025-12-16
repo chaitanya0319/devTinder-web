@@ -46,3 +46,5 @@ Body
 
 Feature - Accept/Reject connection request
 - Send/Ignore the user card from the feed
+ -Signup New User 
+- E2E testing
